@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I like playing guitar 🎸
 
 <p align="center">
-<img src="ian-dooley-DJ7bWa-Gwks-unsplash.jpg" width="1000px" />
+<img src="solar.jpg" width="1080px" />
 
 <br />
 
