@@ -5,7 +5,7 @@
 ## 🎓 I'm a 2nd year BTech. Computer Science Student at VIT Vellore
 - 🔭I'm currently working on [Real time object detection](https://github.com/CodeChefVIT/Real-time-object-detection)
 - 🌱 I’m currently learning Deep Learning
-- 💬 Ask me about anything
+- 💬 Ask me about anything.
 - 📫 How to reach me: Instagram @adityaa0707
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing guitar 🎸
