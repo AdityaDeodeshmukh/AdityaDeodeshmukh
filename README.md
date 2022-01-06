@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey, I'm Aditya Deodeshmukh
 
-<!--
-**AdityaDeodeshmukh/AdityaDeodeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AdityaDeodeshmukh.AdityaDeodeshmukh) [![Github](https://img.shields.io/github/followers/AdityaDeodeshmukh?label=Follow&style=social)](https://github.com/AdityaDeodeshmukh)
 
-Here are some ideas to get you started:
+## 🎓 I'm a 2nd year BTech. Computer Science Student at VIT Vellore
+- 🔭I'm currently working on [Real time object detection](https://github.com/CodeChefVIT/Real-time-object-detection)
+- 🌱 I’m currently learning Deep Learning
+- 💬 Ask me about anything
+- 📫 How to reach me: Instagram @adityaa0707
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like playing guitar 🎸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="ian-dooley-DJ7bWa-Gwks-unsplash.jpg" width="1000px" />
+
+<br />
+
