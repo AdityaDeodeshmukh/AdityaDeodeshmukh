@@ -15,3 +15,10 @@
 
 <br />
 
+## 📈 My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaDeodeshmukh&show_icons=true&theme=algolia)
+  <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDeodeshmukh&layout=compact&theme=algolia)
+
+<br />
